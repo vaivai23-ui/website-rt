@@ -14,8 +14,8 @@ Website resmi RT untuk laporan keuangan, daftar warga, kegiatan, dokumentasi, da
 
 ## 🌍 Demo Online
 Website bisa diakses di:
-https://USERNAME.github.io/website-rt
+https://vaivai23.github.io/website-rt
 
 ## 📥 Cara Gunakan / Clone
 ```bash
-git clone https://github.com/USERNAME/website-rt.git
+git clone https://github.com/vaivai23/website-rt.git
